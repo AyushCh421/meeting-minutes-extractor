@@ -1,0 +1,47 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Model caches and downloaded weights
+.cache/
+.cache_huggingface/
+huggingface_cache/
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Audio files and large datasets
+uploads/*.wav
+uploads/*.mp3
+uploads/*.m4a
+uploads/*.flac
+
+# Generated reports
+outputs/*
+
+# Keep placeholder files
+!uploads/.gitkeep
+!outputs/.gitkeep
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+.pytest_cache/
+.coverage

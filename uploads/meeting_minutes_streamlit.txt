@@ -1,0 +1,56 @@
+=================================================================
+AUTOMATED MEETING MINUTES
+=================================================================
+
+MEETING SUMMARY
+-----------------------------------------------------------------
+I will complete the attendance API and add validation to prevent duplicate records by Wednesday afternoon. I have finished the login page. I will fix the responsive dashboard layout by Thursday morning and send screenshots to the team. I will test authentication and duplicate attendance prevention.
+
+ACTION ITEMS
+-----------------------------------------------------------------
+
+1. Task: I will complete the attendance API and add validation to prevent duplicate records by Wednesday afternoon
+   Assignee: SPEAKER_00
+   Deadline: Wednesday afternoon
+   Type: Commitment
+   Status: Pending
+
+2. Task: I will fix the responsive dashboard layout by Thursday morning and send screenshots to the team
+   Assignee: SPEAKER_00
+   Deadline: Thursday morning
+   Type: Commitment
+   Status: Pending
+
+3. Task: I will test authentication and duplicate attendance prevention
+   Assignee: SPEAKER_00
+   Deadline: Not specified
+   Type: Commitment
+   Status: Pending
+
+4. Task: I will prepare the regression test report by Friday afternoon
+   Assignee: SPEAKER_00
+   Deadline: Friday afternoon
+   Type: Commitment
+   Status: Pending
+
+5. Task: I will update the API documentation and push the final backend changes to get her by Saturday evening
+   Assignee: SPEAKER_01
+   Deadline: Saturday evening
+   Type: Commitment
+   Status: Pending
+
+6. Task: Before the demonstration, we should confirm the room and projector
+   Assignee: SPEAKER_00
+   Deadline: Not specified
+   Type: Obligation / Recommendation
+   Status: Pending
+
+FULL TRANSCRIPT
+-----------------------------------------------------------------
+[0.00s - 24.88s] SPEAKER_00: Good morning everyone. I will complete the attendance API and add validation to prevent duplicate records by Wednesday afternoon. I have finished the login page. I will fix the responsive dashboard layout by Thursday morning and send screenshots to the team. I will test authentication and duplicate attendance prevention. I will prepare the regression
+[24.88s - 32.24s] SPEAKER_01: test report by Friday afternoon. I will update the API documentation and push the final backend
+[32.24s - 43.20s] SPEAKER_00: changes to get her by Saturday evening. Before the demonstration, we should confirm the room and projector. The meeting is finished. Thank you, everyone.
+
+=================================================================
+END OF MEETING MINUTES
+=================================================================
